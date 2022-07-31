@@ -2,7 +2,7 @@
 
 ***This was great experience, working as a Web Developer and Web Designer. First of all thanks to [Oasis Infobytes](https://oasisinfobyte.com) for providing me such a great internship opportunity as a Web Developer and Web Designer***
 
-# I choose to work on the level 2 which consists of 3 tasks:
+## I choose to work on the level 2 which consists of 3 tasks:
 
 ## <a> Task-1/Calculator </a>
 
