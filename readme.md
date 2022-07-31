@@ -8,7 +8,7 @@ I choose to work on the level 2(3 tasks):
 
 It takes a little skill to create a calculator with basic mathematical functionalities using CSS, HTML, and JavaScript. Calculators require an interactive interface to perform basic functions such as addition, subtraction, division, and multiplication. It will need a  display screen to display the user’s input and give the results. The grid system in CSS is for the alignments of buttons on the calculator. The additional tools you need to build a fully functional calculator include eventListeners, if-else statements, operators, loops, and so on. 
 
-!task1](https://media.discordapp.net/attachments/722342169352077332/1003373783693918262/unknown.png?width=1244&height=586)
+![task1](https://media.discordapp.net/attachments/722342169352077332/1003373783693918262/unknown.png?width=1244&height=586)
 
 ## <a>Task-2/Tribute Page </a>
 
